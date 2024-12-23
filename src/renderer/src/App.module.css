@@ -1,0 +1,33 @@
+
+.main{
+    width:100vw;
+    height:100vh !important;
+    display:flex;
+}
+
+.pro-sidebar {
+    position: absolute;
+    height: 100%;
+}
+
+.icon>path{
+    stroke-opacity:.2 !important;
+}
+
+.icon>path:hover{
+    stroke-opacity:1 !important;
+}
+
+
+#menusidebar.ps-sidebar-container{
+    overflow:hidden !important;
+}
+
+#menusidebar{
+    background-color:transparent !important;
+}
+
+#buttonsbar div{
+    background:transparent !important;
+}
+
